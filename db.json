@@ -1,49 +1,19 @@
 {
   "employees": [
     {
+      "id": "2",
+      "name": "Clark",
+      "salary": "60000"
+    },
+    {
+      "id": "65f3",
       "name": "Test User",
-      "profilePic": "pic3.jpg",
-      "department": [],
-      "salary": "50000",
-      "notes": "undefined",
-      "startDate": "2024-12-31T18:30:00.000Z",
-      "id": "cba0"
+      "salary": "50000"
     },
     {
-      "id": "e968",
+      "id": "cba0",
       "name": "Test User",
-      "profilePic": "pic3.jpg",
-      "gender": "Male",
-      "department": [
-        "Engineer"
-      ],
-      "salary": "52188",
-      "notes": "",
-      "startDate": "2025-12-07T18:30:00.000Z"
-    },
-    {
-      "id": "d8a9",
-      "name": "Dharani",
-      "profilePic": "pic2.jpg",
-      "gender": "Female",
-      "department": [
-        "HR"
-      ],
-      "salary": "52928",
-      "notes": "",
-      "startDate": "2025-12-02T18:30:00.000Z"
-    },
-    {
-      "id": "00f2",
-      "name": "Johnny",
-      "profilePic": "pic3.jpg",
-      "gender": "Female",
-      "department": [
-        "HR"
-      ],
-      "salary": "62843",
-      "notes": "",
-      "startDate": "2025-12-04T18:30:00.000Z"
+      "salary": "50000"
     }
   ]
 }
